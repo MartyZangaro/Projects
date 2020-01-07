@@ -1,0 +1,11 @@
+C:\Users\marti\source\repos\CreditCardApplications\CreditCardApplications\bin\Debug\netcoreapp2.1\CreditCardApplications.deps.json
+C:\Users\marti\source\repos\CreditCardApplications\CreditCardApplications\bin\Debug\netcoreapp2.1\CreditCardApplications.runtimeconfig.json
+C:\Users\marti\source\repos\CreditCardApplications\CreditCardApplications\bin\Debug\netcoreapp2.1\CreditCardApplications.runtimeconfig.dev.json
+C:\Users\marti\source\repos\CreditCardApplications\CreditCardApplications\bin\Debug\netcoreapp2.1\CreditCardApplications.dll
+C:\Users\marti\source\repos\CreditCardApplications\CreditCardApplications\bin\Debug\netcoreapp2.1\CreditCardApplications.pdb
+C:\Users\marti\source\repos\CreditCardApplications\CreditCardApplications\obj\Debug\netcoreapp2.1\CreditCardApplications.csprojAssemblyReference.cache
+C:\Users\marti\source\repos\CreditCardApplications\CreditCardApplications\obj\Debug\netcoreapp2.1\CreditCardApplications.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\CreditCardApplications\CreditCardApplications\obj\Debug\netcoreapp2.1\CreditCardApplications.AssemblyInfoInputs.cache
+C:\Users\marti\source\repos\CreditCardApplications\CreditCardApplications\obj\Debug\netcoreapp2.1\CreditCardApplications.AssemblyInfo.cs
+C:\Users\marti\source\repos\CreditCardApplications\CreditCardApplications\obj\Debug\netcoreapp2.1\CreditCardApplications.dll
+C:\Users\marti\source\repos\CreditCardApplications\CreditCardApplications\obj\Debug\netcoreapp2.1\CreditCardApplications.pdb
